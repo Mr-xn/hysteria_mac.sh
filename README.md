@@ -19,5 +19,5 @@
 ## notice
 
 1. change `path/to` in the  script  to your $HOME dir path of hysteria
-2. pls configura well done before use it, [wiki](https://github.com/HyNetwork/hysteria/wiki)
+2. pls configura well xxx.json done before use it (like demo shell [hk-config.json](https://github.com/Mr-xn/hysteria_mac.sh/blob/main/hysteria_mac.sh#L63)), more info see the [wiki](https://github.com/HyNetwork/hysteria/wiki)
 3. less time developed. If u found bugs, please pushl [issues](../../issues/new) or pr ,welcome!
